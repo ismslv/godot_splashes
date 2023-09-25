@@ -3,9 +3,13 @@
 
 ## Usage
 
-Add chosen scene, corresponding folder, and script timer.gd to your project.
+1. Add chosen scene with corresponding folder and ```scripts/timer.gd``` to your project.
 
-Find object Timer in the scene and set "Scene" property to your game's first scene.
+2. Find object Timer in the scene.
+
+    2.1. Set "Scene" property to your game's first scene.
+   
+    2.2. Set WaitTime to how many second your splash will be on.
 
 ## Spashes
 
