@@ -11,10 +11,23 @@ config_version=5
 [application]
 
 config/name="Godot_Splashes"
-run/main_scene="res://scenes/splash_3d_head.tscn"
+run/main_scene="res://scenes/3d_head_physics.tscn"
 config/features=PackedStringArray("4.1", "Forward Plus")
+boot_splash/show_image=false
 config/icon="res://icon.svg"
+
+[display]
+
+window/stretch/mode="canvas_items"
 
 [dotnet]
 
 project/assembly_name="Godot_Splashes"
+
+[editor_plugins]
+
+enabled=PackedStringArray()
+
+[rendering]
+
+anti_aliasing/quality/msaa_3d=1
