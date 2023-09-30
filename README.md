@@ -14,4 +14,5 @@
 ## Spashes
 
 - 3d robot head ([model by DJMaesen, CC](https://sketchfab.com/3d-models/godotbot-863e6d679f114be59d43127e7e49d599))
-- 3d robot head with physics
+- Godot head & Blender
+- Blender & Godot head (inverse)
